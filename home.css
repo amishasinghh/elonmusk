@@ -1,0 +1,113 @@
+nav{
+	text-align: center;
+	margin:3% 2% 1%;
+}
+
+summary{
+	display: inline-block;
+	width: 100%;
+	font-size: 120%;
+	font-variant: small-caps;
+}
+
+summary:hover{
+	background-color: #bababa54;
+}
+
+main{
+	display: inline-block;
+	width: 45%;
+	float: right;
+	box-sizing: border-box;
+	text-align: justify;
+	font-style: italic;
+}
+
+section{
+	display: inline-block;
+	width: 25%;
+	float: right;
+	box-sizing: border-box;
+	overflow: visible;
+	margin-left: 2%;
+}
+
+aside{
+	display: inline-block;
+	border:3px solid #bababa;
+	border-radius: 2px;
+	height: 680px;
+	margin-top: 3%;
+	overflow: auto;
+	margin-left: 2%;
+	width: 20%;
+	float: left;
+	box-sizing: border-box;
+	background-color: #e8e8e8;
+	color: #000000;
+	padding-right: .5%;
+}
+
+aside a{
+	color: #000000;
+	font-size: 90%;
+}
+
+aside a:hover{
+	background-color:#bababa54;
+}
+
+li{
+	padding-top: 10%;
+}
+
+h3{
+	font-family: helvetica;
+	text-transform: uppercase;
+	text-align: center;
+	padding-left:4%;
+	font-style: italic;
+	padding-right:0%;
+}
+
+img{
+	width:110%;
+	margin: 0 3%;
+}
+
+figcaption{
+	width: 120%;
+	text-align: center;
+	font-size: 90%;
+}
+
+cite{
+	line-height: 110%;
+	clear: both;
+	font-size: 150%;
+	float: left;
+	margin:2% 0% 5%;
+	padding: 10% 2%;
+	box-sizing: border-box;
+	text-align: right;
+	background-image: url(img/bg2.jpg);
+	background-repeat: repeat-x;
+	height: 300px;
+}
+
+li{
+	list-style-image: url("https://img.icons8.com/small/16/000000/link.png");
+}
+
+.socials{
+	float: left;
+	padding-bottom: 2%;
+	box-sizing: border-box;
+	margin-top:1.5%;
+}
+
+a img{
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+}

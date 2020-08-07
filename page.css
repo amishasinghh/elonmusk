@@ -1,0 +1,33 @@
+aside{
+	width: 60%;
+	box-sizing: border-box;
+	padding-top: 5%;
+	padding-left: 11%;
+}
+
+aside a{
+	display: block;
+}
+
+aside>img{
+	width: 100%;
+}
+
+main{
+	float: right;
+	font-style: italic;
+	font-size: 130%;
+	text-align: left;
+	width: 30%;
+	margin: 2% 5%;
+}
+
+main a{
+	color: #ffffff;
+}
+
+table{
+	font-size: 60%;
+	height: 300px;
+}
+
